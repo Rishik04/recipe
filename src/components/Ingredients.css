@@ -1,0 +1,11 @@
+li {
+  list-style: decimal-leading-zero;
+  font-size: 14px;
+  word-spacing: 1.2px;
+  padding: 10px 0;
+  margin: 0 20px;
+}
+.card-img {
+  height: 80%;
+  width: 500px;
+}

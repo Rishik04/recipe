@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+.Search {
+  height: 40px;
+  width: 30%;
+  border: none;
+  background-color: whitesmoke;
+  border-radius: 1.2rem;
+  outline: none;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: capitalize;
+  padding: 20px;
+}
+.Button {
+  background-color: orangered;
+  color: white;
+  font-weight: 500;
+  border-radius: 1.2rem;
+  margin-bottom: 5px;
+}
+.Search::placeholder {
+  font-weight: 200;
+  font-style: italic;
+}
